@@ -1,6 +1,6 @@
 class ChatroomController < ActionController::Base
   
-  def home
+  def index
     
   end
   
