@@ -1,7 +1,2 @@
-class SessionsController < ActionController::Base
-
-  def new
-    
-  end
-
+class SessionsController < ApplicationController
 end
